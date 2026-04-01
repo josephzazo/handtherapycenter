@@ -1,11 +1,18 @@
 body	{
-	color: #000;
-	background: #fff;
+	color: #222;
+	background: #f7f4ef;
 	margin: 0;
-	padding: 0;
-	border: 0;
-	font: 12px Arial, Helvetica, sans-serif;
+	font: 16px/1.6 Arial, Helvetica, sans-serif;
 	}
+
+.site-shell {
+  max-width: 960px;
+  margin: 24px auto;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.08);
+  border-radius: 12px;
+  overflow: hidden;
+}
 
 p, td, li, ul, ol, h1, h2, h3, h4, h5, h6	{
 	font: 12px Arial, Helvetica, sans-serif;
