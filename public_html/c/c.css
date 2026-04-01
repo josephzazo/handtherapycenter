@@ -1,0 +1,156 @@
+body	{
+	color: #000;
+	background: #fff;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: 12px Arial, Helvetica, sans-serif;
+	}
+
+p, td, li, ul, ol, h1, h2, h3, h4, h5, h6	{
+	font: 12px Arial, Helvetica, sans-serif;
+	}
+
+img {
+	display: block;
+	}
+
+.secthead {
+	font-weight: bold;
+	color: #4A0800;
+}
+
+.bigheadline {
+	font-weight: bold;
+	font-size: 24px;
+	color: #993300;
+}
+
+
+.imgleft {
+	display: inline;
+	float: left;
+	margin: 0 8px 0 0;
+}
+
+
+a:link {
+	font-weight: bold; 
+	text-decoration: underline;
+	color: #0000EE;
+	background: transparent; 
+	}
+
+a:visited {
+	font-weight: bold; 
+	text-decoration: underline;
+	color: #0000EE;
+	background: transparent; 
+	}
+
+a:hover {
+	font-weight: bold; 
+	text-decoration: underline;
+	color: #4A0800;
+	background: transparent; 
+	}
+
+a:active {
+	font-weight: bold; 
+	text-decoration: underline;
+	color: #4A0800;
+	background: transparent;  
+	}
+
+
+
+
+
+#navbar {
+	background: #00428C;
+	color: #ddd;
+	border: 0;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	vertical-align: middle;
+	width: 720px;
+	}
+
+table#nav {
+	margin-top: 5px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+
+table#nav td {
+	font: 12px/24px Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #f3f354;
+	}
+
+table#nav td a {
+	font-weight: normal;
+	text-decoration: none;
+	display: block;
+	margin: 0;
+	padding: 0;
+	color: #f3f354;
+	}
+
+#nav td a:link, #nav td a:visited {
+	background: transparent;
+	display: block;
+	margin: 0;
+	padding: 0;
+	} 
+
+#nav td a:hover {
+	color: #4A0800;
+	background-color: #DDC83F;
+	} 
+
+
+
+
+
+
+table.content {
+	margin-top: 24px;
+	width: 712px;
+}
+
+table.content td.col1 {
+	width: 108px;
+	padding: 0px 16px 0px 20px;
+}
+
+
+table.content td.col2 {
+	width: 604px;
+	padding: 0px;
+}
+.credits {
+	font-size: 9px;
+}
+p.in {
+	text-indent: .75in;
+	margin: 0px;
+}
+p.nm {
+	margin: 0px;
+	font-style: italic;
+	text-decoration: underline;
+}
+p.inp {
+	margin-left: 0.75in;
+	margin-top: 0px;
+}
+p.bul {
+	text-indent: .75in;
+}
+p.inb {
+	text-indent: 1.5in;
+	margin: 0px;
+}
